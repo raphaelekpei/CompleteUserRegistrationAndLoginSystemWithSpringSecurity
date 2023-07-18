@@ -1,6 +1,7 @@
 package com.raphael.completeuserregistrationandloginsystemwithspringsecurity.dto.response;
 
-import com.unkownkoder.data.models.ApplicationUser;
+
+import com.raphael.completeuserregistrationandloginsystemwithspringsecurity.data.models.ApplicationUser;
 
 public class LoginResponseDTO {
     private ApplicationUser user;
