@@ -1,7 +1,7 @@
 package com.raphael.completeuserregistrationandloginsystemwithspringsecurity.services;
 
 
-import com.unkownkoder.data.repository.UserRepository;
+import com.raphael.completeuserregistrationandloginsystemwithspringsecurity.data.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
